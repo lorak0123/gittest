@@ -1,4 +1,4 @@
-Zmiana1
+Zmiana1 = Zmiana6
 Zmiana2 Zmiana2a
 Zmiana3
 Zmiana4
