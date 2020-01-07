@@ -6,3 +6,4 @@ Uproszczenie ui
 Zmiana8
 Zmiana9
 Zmiana10a
+Zmiana12wklonie
