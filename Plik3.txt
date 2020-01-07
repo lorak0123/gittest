@@ -1,1 +1,8 @@
 Zmiana7b
+naprawa błędów = hotFix-001
+oraz
+Asystent pomocy
+Uproszczenie ui
+Zmiana8
+Zmiana9
+Zmiana10a
